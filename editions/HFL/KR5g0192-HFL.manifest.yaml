@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0192/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0192/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清太上元始耀光金虎鳳文章寶經
+  date: '2015-08-29 02:59:47.016134'
+  source:
+    repository: kanripo
+    path: KR5g0192
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0192_000-HFL.yaml, hash: 'sha256:63ff82686de79b658e25de426324b8f1381133c3297e0c6663c8f3ea38e3b0d0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0192_000-HFL.markers.yaml, hash: 'sha256:fa7cd076f8d9b305ad1d4c4c6cb5774a941e2bd82790fb0fa20d0766de8d743f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0192_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1785
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ebb969699a4effff32b6bd8322831529a396e266f0492157712b2047e1b452ec
